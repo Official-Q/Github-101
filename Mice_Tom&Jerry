@@ -1,7 +1,5 @@
 - Installed Piper from the software center
   can also do it via:
     sudo add-apt-repository ppa:libratbag-piper/piper-libratbag-git
-    sudo apt-get update
-    sudo apt install piper
-- restart computer
-- https://youtu.be/3HcZecgWiWA
+ERR: problem with something about "backdoor ppa Ardour. I assume because Ubuntu studio makes a sort of "custom" OS, and not a "stable release" version.
+- Re-install Ubuntu 22.04
