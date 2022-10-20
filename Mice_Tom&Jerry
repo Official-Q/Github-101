@@ -1,0 +1,6 @@
+- Installed Piper from the software center
+  can also do it via:
+    sudo add-apt-repository ppa:libratbag-piper/piper-libratbag-git
+    sudo apt-get update
+    sudo apt install piper
+- restart computer
