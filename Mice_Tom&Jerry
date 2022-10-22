@@ -1,15 +1,1 @@
-- Using video from https://youtu.be/3HcZecgWiWA
-- Installed Piper from the software center
-  can also do it via:
-    sudo add-apt-repository ppa:libratbag-piper/piper-libratbag-git
-ERR: problem with something about "backdoor ppa Ardour. I assume because Ubuntu studio makes a sort of "custom" OS, and not a "stable release" version.
-- Re-install Ubuntu 22.04
-    Restore Backed up files to home folder.
-    sudo add-apt-repository ppa:libratbag-piper/piper-libratbag-git
-    sudo apt-get update
-    sudo apt install piper
-- restart computer
-ERR: Piper "cannot find any devices"
-ERR: Piper "Oops. Ratbagd has disappeared."
-- Restart Piper as prompted after last message
-ERR: Piper "cannot find any devices"
+- Install Piper from Discover software center
